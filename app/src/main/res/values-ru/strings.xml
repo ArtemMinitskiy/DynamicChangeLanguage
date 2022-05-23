@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">Дом</string>
+    <string name="title_dashboard">Панель Приборов</string>
+    <string name="title_notifications">Уведомления</string>
+    <string name="english">Английский</string>
+    <string name="russian">Русский</string>
+    <string name="next_activity">Следующая Активити</string>
+    <string name="this_is_dashboard_fragment">Это фрагмент Панель Приборов</string>
+</resources>
